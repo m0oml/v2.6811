@@ -1,0 +1,10 @@
+.env
+secrets.conf
+*.swp
+K-ShakeTune_results
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+Brightness.zip
