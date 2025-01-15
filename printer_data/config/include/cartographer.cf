@@ -1,5 +1,6 @@
 [scanner]
-canbus_uuid: 09e0aa2d3c90
+canbus_uuid: cf51f4b1f1c5
+# origcanbus_uuid: 09e0aa2d3c90
 #   Path to the serial port for the Cartographer device. Typically has the form
 #   /dev/serial/by-id/usb-cartographer_cartographer_...
 #   
