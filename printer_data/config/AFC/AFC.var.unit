@@ -15,14 +15,14 @@
         "leg2": {
             "spool_id": "",
             "material": "",
-            "color": "#000000",
-            "weight": 0,
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T1",
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": true,
-            "status": "ejecting"
+            "hub_loaded": false,
+            "status": ""
         },
         "leg3": {
             "spool_id": "",
