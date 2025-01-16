@@ -9,7 +9,7 @@
             "map": "T0",
             "index": 1,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "status": ""
         },
         "leg2": {
@@ -21,7 +21,7 @@
             "map": "T1",
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "status": ""
         },
         "leg3": {
@@ -33,7 +33,7 @@
             "map": "T2",
             "index": 3,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "status": ""
         },
         "leg4": {
@@ -45,7 +45,7 @@
             "map": "T3",
             "index": 4,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "status": ""
         }
     }
